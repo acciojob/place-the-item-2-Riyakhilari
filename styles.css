@@ -5,10 +5,13 @@
 	justify-content:center;
 	flex-wrap:wrap;
 	flex-direction:row;
+	background-color:black;
 	
 	
 }
 .item{
 	background-color:red;
 	padding:10px;
+	justify-content:space-between;
+	margin:10px;
 }
